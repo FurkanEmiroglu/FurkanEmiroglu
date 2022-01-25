@@ -1,33 +1,10 @@
-# The Main Goal of the Project
+<h1 align="center">Hi 👋, I'm Furkan Emiroglu</h1>
+<h3 align="center">A passionate Machine Learning Student</h3>
 
-- Security breaches that drone swarms may create in the air defense system must be determined in advance.
-- In this project, an intelligent drone detection system is proposed for the detection of drone swarm.
-- Among the object detection methods, the YOLO algorithm was preferred as the optimum method.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/furkanemiroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanemiroglu/" height="30" width="40" /></a>
+</p>
 
-
-# Drone Swarms Detection with YOLO
-
-*Model Training*
-
-80% of the tagged data set is grouped to be used as training data and 20% as test data. 
-The dataset consists of 1379 images in total.
-The model was run in the Google Colab environment as the training process provides free GPU support for performance and speed.
-By using the YOLOv4 ready model, the hyperparameters in the configuration file were arranged appropriately and the model was trained with 416x416 images.
-Classes values were determined as 1, filters number 18, max_batches number 2000, subdivisions 64 and batch value 64.
-
-
-
-# RESULTS
-
-- The initial learning rate and other parameters required for the system to work properly were taken the same as in the original YOLOv4 model. Only necessary hyperparameters have been modified to improve performance.
-- The model was trained for approximately 8 hours. The training process took 2000 epochs and the weights of the model were backed up every 200 steps. These backed up weights were then run on the test data.
-
-
-![drone_tespit](https://user-images.githubusercontent.com/58220997/124391796-e6614080-dcfa-11eb-90da-ffbaa4476708.gif)
-
-- One of the important tasks solved by these systems is the reliable detection of drones near protected objects. However, drone detection using visual information is hampered by the huge resemblance of drones to other objects such as birds or airplanes. In addition, since drones can reach very high speeds, detection must be done in real time.
-
-![d](https://user-images.githubusercontent.com/58220997/126679359-22a7f5b9-8d95-4534-b3c0-f0538ec112c6.PNG)
-
-**As a result of the object detection process, an average of 97.48% success was achieved in the same type of drone types in the dataset, an average of 95.46% on noisy images with different scaled drone types, and an average of 95.67% on images of different weather conditions.**
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
