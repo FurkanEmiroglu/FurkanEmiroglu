@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Furkan</h3>
-<h3 align="left">ML Developer with an engineering background</h3>
+<h4 align="left">ML Developer with an engineering background</h4>
 
 - 🌱 I’m currently learning **Deep Learning**
 
