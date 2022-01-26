@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/88919177/151149484-b7e2afe9-7320-4f0f-b05c-4c5c0ac22e90.gif" alt="@emiroglufurkan" height="300" width="450" />
-<h3 align="left">Hi 👋, I'm Furkan Emiroglu</h3>
+<h3 align="left">Hi 👋, I'm Furkan</h3>
 <h3 align="left">ML Developer with an engineering background</h4>
 
 - 🌱 I’m currently learning *Deep Learning*
