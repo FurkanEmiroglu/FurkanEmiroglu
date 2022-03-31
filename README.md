@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *Deep Learning*
 
-- 💬 Ask me about *Python, SQL*
+- 💬 Ask me about Unity, OOP, C#, *Python
 </p>
 
 </br>
