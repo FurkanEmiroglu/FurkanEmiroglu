@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently developing mobile games but also interesting in Deep Learning
 
-- 💬 Ask me about Unity, OOP, C#, *Python
+- 💬 Ask me about Unity, OOP, C#, Python
 
 **Lifetime gamer**
 </p>
