@@ -2,7 +2,7 @@
 <h3 align="left">Hi 👋, I'm Furkan</h3>
 <h3 align="left"> Developer with an engineering background</h4>
 
-- 🌱 I’m currently developing mobile games but also interesting in Deep Learning
+- 🌱 I’m currently developing mobile games and trying to improve myself in Computer Graphics.
 
 - 💬 Ask me about Unity, OOP, C#, Python
 
