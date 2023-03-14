@@ -3,7 +3,7 @@
 <h3 align="left"> I am a Game Developer who loves math.</h4>
 
 - 🌱 I’m currently developing video games, and continuing my Master's Degree on Data science.
-- Also i'm in love with tool development & shaders.
+- Also i'm deeply interested in AI, Tool development & shaders.
 - 💬 You can ask me about Unity, OOP, C#, Python
 
 **Lifetime gamer**
