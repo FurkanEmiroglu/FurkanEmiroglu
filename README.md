@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently developing video games, and continuing my Master's Degree on Data science.
 - Also i'm deeply interested in AI, Tool development & shaders.
-- 💬 You can ask me about Unity, OOP, C#, Python
+- 💬 You can ask me about Unity, OOP, C#, Python, Linux...
 
 **Lifetime gamer**
 </p>
