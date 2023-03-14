@@ -2,9 +2,9 @@
 <h3 align="left">Hi 👋, I'm Furkan</h3>
 <h3 align="left"> I am a Game Developer who loves math.</h4>
 
-- 🌱 I’m currently developing mobile games and trying to improve myself in Computer Graphics.
-
-- 💬 Ask me about Unity, OOP, C#, Python
+- 🌱 I’m currently developing video games, and continuing my Master's Degree on Data science.
+- Also i'm in love with tool development & shaders.
+- 💬 You can ask me about Unity, OOP, C#, Python
 
 **Lifetime gamer**
 </p>
