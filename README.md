@@ -2,7 +2,7 @@
 <h3 align="left"> Welcome. I am a Game Developer who loves math.</h3>
 
 - 🌱 I’m a professional game developer, and continuing my Master's Degree on Information Engineering, studying computer graphics & vision.
-- 💬 I'm deeply interested in Engine Development, Rendering Pipelines & shaders. I'd love to 
+- 💬 I'm deeply interested in Engine Development, Rendering Pipelines & shaders.
 
 </p>
 
