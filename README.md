@@ -1,10 +1,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/88919177/151149484-b7e2afe9-7320-4f0f-b05c-4c5c0ac22e90.gif" alt="@emiroglufurkan" height="300" width="450" />
-<h2 align="left">Hi 👋, I'm Furkan</h2>
-<h2 align="left"> I am a Game Developer who loves math.</h2>
+<h3 align="left"> Welcome. I am a Game Developer who loves math.</h3>
 
-- 🌱 I’m currently developing video games, and continuing my Master's Degree on Data science.
-- Also i'm deeply interested in AI, Tool development & shaders. Also i could say that i am a linux enthusiast.
-- 💬 You can ask me about Game Development, Editor Tooling, Shaders, Software Architecture...
+- 🌱 I’m a professional game developer, and continuing my Master's Degree on Information Engineering, studying computer graphics & vision.
+- 💬 I'm deeply interested in Engine Development, Rendering Pipelines & shaders. I'd love to 
 
 </p>
 
